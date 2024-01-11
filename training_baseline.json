@@ -1,0 +1,108 @@
+[
+	"campaing0":{
+		"name": "Q1 Introduction to Cybersecurity",
+		"modules": {
+			"6351d8d3-4e5c-4911-a0f4-ab1f15e9c696": {
+			   "name": "Introduction to Information Security",
+			   "justification" : "Educate your employees in the basic principles of protecting information at home and at work."
+			},
+            {
+            "6351d8d3-4e5c-4911-a0f4-ab1f15e9c696": {
+                   "name": "Breach Response",
+                   "justification" : "Guide employees how to recognise common cyber threats and mitigate the damage caused by breaches."
+                }
+            }
+            ... Add one Phishing Simulation:
+            Phishing Simulation
+            Establish a baseline for your employees’ susceptibility to phishing simulations to later compare with the impact of training on this topic.
+        },
+		"justification": "Educate your employees in core cybersecurity principles and how to spot threats and minimise their impact.",
+        "startDate": "15/01/2024",
+        "endDate" : "4/03/2024"
+    },
+	"campaing1":{
+		"name": "Q2 Phishing Awareness",
+		"modules": {
+            {
+            "44c59f7c-7e93-4709-9f79-c85eeead2144": {
+                   "name": "Phishing & Email Security",
+                   "justification" : "Help your employees understand how cyber criminals use deceptive emails to target businesses and individuals."
+                }
+            },
+            {
+                "7d7e1644-52d4-49cf-b542-ed9d67002518": {
+                       "name": "Digital Threats",
+                       "justification" : "Ransomware attacks can be very costly to the target organization - employees will learn how to manage this risk."
+                    }
+            }
+
+            ... Add one Phishing Simulation:
+            Phishing Simulation
+            Ransomware attacks continue to increase year-on-year and are responsible for the majority of cyber insurance payouts. Help you employees to spot the threats.
+        },
+		"justification": "Ransomware attacks continue to increase year-on-year and are responsible for the majority of cyber insurance payouts. Help you employees to spot the threats.",
+        "startDate": "15/04/2024",
+        "endDate" : "10/06/2024"
+    },
+	"campaing2":{
+		"name": "Q3 Data security",
+		"modules": {
+
+            {
+            "54f12c4f-d77a-4af1-8a8b-67ac3642d8dd": {
+                   "name": "GDPR General Awareness",
+                   "justification" : "Understand what GDPR is, how it impacts individuals and businesses, and how to ensure compliance."
+                }
+            },
+            {
+                "1aaf2d94-aaa0-4fcb-a20f-4a6da6a5f20c": {
+                       "name": "Information Classification",
+                       "justification" : "All information should be classified so it is protected and shared appropriately: learn how to classify it correctly."
+                    }
+            }
+
+            ... Add one Phishing Simulation:
+            Phishing Simulation
+            Using the same level of difficulty and social engineering technique as the Q1 simulation, assess the impact of the Q2 training campaign.
+        },
+		"justification": "Organisations need to comply with policies and regulations aligned with the jurisdictions in which they operate. Enable your employees to understand those policy and how they can contribute to compliance.",
+        "startDate": "15/07/2024",
+        "endDate" : "09/09/2024"
+    },
+	"campaing3":{
+		"name": "Q4 Level 2 Cybersecurity",
+		"modules": {
+
+            {
+            "f3963a57-a846-4d94-92ed-c6e48603f82a": {
+                   "name": "Passwords, MFA, Biometrics",
+                   "justification" : "Learn the key principles of password security, multi-factor authentication and biometrics."
+                }
+            },
+            {
+                "835292fc-94e3-47bd-9f09-93b741deb360": {
+                       "name": "Secure Web Browsing",
+                       "justification" : "Train employees how to browse the web in a safe way."
+                    }
+            },
+            {
+                "defd67a7-64a1-4fbd-898b-6bec87941135": {
+                       "name": "Personal and Home Security",
+                       "justification" : "Learn how to make your home and personal devices more secure."
+                    }
+            }
+
+            ... Add one Phishing Simulation:
+            Phishing Simulation
+            Using the same level of difficulty and social engineering technique as the Q1 simulation, assess the impact of the Q2 training campaign.
+        },
+		"justification": "Build on users’ core knowledge of cybersecurity principles with everyday guidance on password best practice, safe browsing and device security.",
+        "startDate": "14/10/2024",
+        "endDate" : "09/12/2024"
+    }
+]
+
+
+
+
+

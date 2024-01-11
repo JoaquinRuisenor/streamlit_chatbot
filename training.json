@@ -1,0 +1,121 @@
+{
+    "campaigns": [
+        {
+            "end_date": "4/03/2024",
+            "campaignDescription": "1. It is important to educate employees about protecting information both at home and at work.\n2. Employees should learn about key principles such as password security, multi-factor authentication, and biometrics.\n3. It is vital to know how to make personal devices and homes more secure.",
+            "modules": {
+                "6351d8d3-4e5c-4911-a0f4-ab1f15e9c696": {
+                    "moduleJustification": "Educate your employees in the basic principles of protecting information at home and at work.",
+                    "name": "Introduction to Information Security",
+                    "type": "static"
+                },
+                "defd67a7-64a1-4fbd-898b-6bec87941135": {
+                    "moduleJustification": "Learn how to make your home and personal devices more secure.",
+                    "name": "Personal and Home Security",
+                    "type": "static"
+                },
+                "f3963a57-a846-4d94-92ed-c6e48603f82a": {
+                    "moduleJustification": "Learn the key principles of password security, multi-factor authentication and biometrics.",
+                    "name": "Passwords, MFA, Biometrics",
+                    "type": "static"
+                }
+            },
+            "name": "Q1 Introduction to Cybersecurity",
+            "start_date": "15/01/2024"
+        },
+        {
+            "end_date": "10/06/2024",
+            "campaignDescription": "The main point is to have proper security controls in place for handling sensitive data. Additionally, all information should be classified correctly to ensure that it is protected and shared appropriately.",
+            "modules": {
+                "1aaf2d94-aaa0-4fcb-a20f-4a6da6a5f20c": {
+                    "moduleJustification": "All information should be classified so it is protected and shared appropriately: learn how to classify it correctly.",
+                    "name": "Information Classification",
+                    "type": "static"
+                },
+                "1fe2d1d0-f06c-440c-b77e-cc3497238aad": {
+                    "moduleJustification": "To ensure that all processes involving information handling have appropriate security controls in place to protect sensitive data.",
+                    "name": "GDPR Champions",
+                    "type": "advisorai"
+                },
+                "5142d366-e42c-493a-9afc-bbce1d12bd58": {
+                    "moduleJustification": "To ensure that all processes involving information handling have appropriate security controls in place to protect sensitive data.",
+                    "name": "Social Media: Top Tips",
+                    "type": "advisorai"
+                },
+                "de6d3d36-241b-4af8-8929-8e6ceeb31546": {
+                    "moduleJustification": "To ensure that all processes involving information handling have appropriate security controls in place to protect sensitive data.",
+                    "name": "POPIA Champions",
+                    "type": "advisorai"
+                }
+            },
+            "name": "Q2 Introduction to Cybersecurity",
+            "start_date": "15/04/2024"
+        },
+        {
+            "end_date": "09/09/2024",
+            "campaignDescription": "The points can be summarized as follows:\n- Train employees on security measures and protocols related to their job roles.\n- Ensure employees understand their specific security responsibilities.\n- Raise awareness about the importance of protecting information and potential risks.\n- Educate employees on how cyber criminals target businesses and individuals through deceptive emails.\n- Provide training on safe web browsing practices.",
+            "modules": {
+                "44c59f7c-7e93-4709-9f79-c85eeead2144": {
+                    "moduleJustification": "Help your employees understand how cyber criminals use deceptive emails to target businesses and individuals.",
+                    "name": "Phishing & Email Security",
+                    "type": "static"
+                },
+                "636a4185-504b-49f7-858b-074247024437": {
+                    "moduleJustification": "To ensure employees understand their specific security responsibilities.",
+                    "name": "AI phishing awareness",
+                    "type": "advisorai"
+                },
+                "835292fc-94e3-47bd-9f09-93b741deb360": {
+                    "moduleJustification": "Train employees how to browse the web in a safe way.",
+                    "name": "Secure Web Browsing",
+                    "type": "static"
+                },
+                "afba3483-ff32-4317-b687-b08f64e5c8f3": {
+                    "moduleJustification": "To ensure that employees are trained on the specific security measures and protocols related to their job roles and responsibilities.",
+                    "name": "Bank Robbery Awareness & Prevention",
+                    "type": "advisorai"
+                },
+                "c96e388a-85fd-4c3e-88cb-68815bd93fd6": {
+                    "moduleJustification": "To ensure that all employees understand the importance of protecting information and are aware of potential risks and threats.",
+                    "name": "Cloud Services: Top Tips",
+                    "type": "advisorai"
+                },
+                "ee660e3b-af99-48c7-8a14-b8a027f8699a": {
+                    "moduleJustification": "To ensure that employees are trained on the specific security measures and protocols related to their job roles and responsibilities.",
+                    "name": "Social Engineering",
+                    "type": "advisorai"
+                }
+            },
+            "name": "Q3 Introduction to Cybersecurity",
+            "start_date": "15/07/2024"
+        },
+        {
+            "end_date": "09/12/2024",
+            "campaignDescription": "1. Upon termination of employment, access to all systems and services should be immediately revoked.\n2. Employees will be guided on how to identify common cyber threats and minimize the impact of breaches.\n3. Training will be provided on managing the risk and cost associated with ransomware attacks.\n4. Understanding and compliance with GDPR will be emphasized, including its impact on individuals and businesses.",
+            "modules": {
+                "265d4919-47d4-4479-9662-fe786fba116e": {
+                    "moduleJustification": "To immediately revoke access to all systems and services upon termination of employment.",
+                    "name": "Data Destruction",
+                    "type": "advisorai"
+                },
+                "345beba2-e5e1-450b-999d-b83d974201f0": {
+                    "moduleJustification": "Guide employees how to recognise common cyber threats and mitigate the damage caused by breaches.",
+                    "name": "Breach Response",
+                    "type": "static"
+                },
+                "54f12c4f-d77a-4af1-8a8b-67ac3642d8dd": {
+                    "moduleJustification": "Understand what GDPR is, how it impacts individuals and businesses, and how to ensure compliance.",
+                    "name": "GDPR General Awareness",
+                    "type": "static"
+                },
+                "7d7e1644-52d4-49cf-b542-ed9d67002518": {
+                    "moduleJustification": "Ransomware attacks can be very costly to the target organization - employees will learn how to manage this risk.",
+                    "name": "Digital Threats",
+                    "type": "static"
+                }
+            },
+            "name": "Q4 Introduction to Cybersecurity",
+            "start_date": "14/10/2024"
+        }
+    ]
+}
